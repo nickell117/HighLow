@@ -1,0 +1,7 @@
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\bin\Debug\Ch5HighLow.exe.config
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\bin\Debug\Ch5HighLow.exe
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\bin\Debug\Ch5HighLow.pdb
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\obj\Debug\Ch5HighLow.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\obj\Debug\Ch5HighLow.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\obj\Debug\Ch5HighLow.exe
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\Code\Ch5HighLow\Ch5HighLow\obj\Debug\Ch5HighLow.pdb
